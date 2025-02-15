@@ -4,6 +4,9 @@ This document serves as a guide to understanding and recreating a personal webpa
 
 ![iamge](https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg)
 
+Recreated it here: https://github.com/BbyZz/My2025soFar/tree/main
+
+
 ## 📋 Requirements
 1. A text editor (e.g., VS Code, Notepad++, Sublime Text)
 
