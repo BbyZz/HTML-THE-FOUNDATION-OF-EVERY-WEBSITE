@@ -132,6 +132,24 @@ But on the browser it can be clearly seen that the message "Fun Moments" is a hy
 save the file and check the improvement on the brower
 
 
+## Part 8: Let's add some forms... why not.
+if you ever decided to publicize this and want some feedback from the other users of the internet
+you can do it creating forms in which then can send their name and email.
+1. let's start by doing a new section at the very bottom and providing it an id called "feedback"
+2. then inside it type "form" then enter. the value of the action specifies a URL that will process the input when the form is submitted, for now we are not doing that, probably soon.
+3. then within the "form" tag, type "label" then enter, in the the "for" full name as it will be used as an attribute which specifies which form the element a label is bound to, then inside the "label" tag type the label that you would want to appear which is "Full Name:".
+4. this is then followed by a "input" tag, additionally type "id" and insert a id name, though it will not be used, then add another attribute "placeholder" and type in the value you would like to show as an example. "Juan D. Cruz"
+5. then another is "textarea" tag, and input the values "message". This will be the text area in which users can drop their feedbacks.
+
+After that add a div spacer after this section also add this into our navigation area and even add in your back to top.
+
+and With covers some of the basics of HTML.
+I hope you learned something new and you develop your own webpage with your own wittines and creativity.
+
+Thank you!!!
+
+
+
 
    
 
