@@ -56,20 +56,22 @@ This document serves as a guide to understanding and recreating a personal webpa
 4. Beautify the code by providing ample space. 
 5. Save the file and see the changes!
 
-## Part 3: Coding a navigation area
+## Part 4: Coding a navigation area
 1. Type "div" and enter, then type"details" and enter, then type"summary" and enter, within the "summary tag" type "Fun Moments" and enter, arrange the code so it looks similar to this
 ![image](https://github.com/user-attachments/assets/903edd49-1b1e-4f8f-80af-513c1f2ab0e8)
 
 2. Below the "Summary Tag", type "nav" then enter, then type"ul" and enter, then type"li" and enter,then type"a" and enter. Arrange the code it should look similar as below.
+
+3. 
 ![image](https://github.com/user-attachments/assets/69d9ba7a-0d1a-4002-935c-60b463431b4e)
 
-3. Within the "a" tag, type "First Memory".
-4. then inside the quoation marks after "href", type "index.html#FirstMemory"
+4. Within the "a" tag, type "First Memory".
+5. then inside the quoation marks after "href", type "index.html#FirstMemory"
    this would link to the section that we will create later making it jump to that certain id.
-5. Arrange the code, and it should look like this.
+6. Arrange the code, and it should look like this.
 ![image](https://github.com/user-attachments/assets/b9ea29bd-d0a8-47f2-b273-a73f1367e169)
 
-## Part 4: Adding our section which will contain images
+## Part 5: Adding our section which will contain images
 1. Under the previous "div" tag, type "section" then enter, then type "h2" then enter then put a heading title to describe the images you would like to put in.
 2. After the "h2" tag, type "p" then enter, within it put another description.
 3. After "p" write a "br" tag to create space for the next element.
@@ -89,7 +91,7 @@ This document serves as a guide to understanding and recreating a personal webpa
 
 
 
-## Part 5: Adding div as spacers
+## Part 6: Adding div as spacers
 
 now to use our navigation area that we created earlier we are goiing to add spacers
 this will be added before and after our section tag
@@ -99,7 +101,7 @@ this will be added before and after our section tag
 ![image](https://github.com/user-attachments/assets/42696b56-5e2d-4761-b2b3-0cdecab09a10)
 4. then save the file and browse the changes in the browser.
 
-## Part 6: Return navigation to our starting page
+## Part 7: Return navigation to our starting page
 
 1. within the section after our "p", type in "nav" then enter, then "ul" then enter, then "li" then enter, and "a".
 2. within the "a" tag, type "Back to Top!", then inside the href value type in "index.html#TOP".
@@ -110,14 +112,14 @@ this will create  a link to our initial "h1" located on top. we just need to add
 
 Currently the webpage is looking good but lets a little style by giving color
 
-## Part 7: Adding Color and title
+## Part 8: Adding Color and title
 
 1. go back to the top where we applied nesting elements
 2. inside the "p" tag, type "style" then we will add "color" and the value is "red"
 3. then after "style", let's add a title by typing "title" then type in a message.
 4. save the file and see the changes
 
-## Part 8: Adding something more fun
+## Part 9: Adding something more fun
 This is for those who are not accurate in their mouse pointers.
 1. go to our "summary" that has the navigation area, inside the "summary" opening tag, type "title" then put a sneaky message such as "Click Me For A Suprise!".
 2. next within our "summary" tag, type in "a" and in the href value insert a link, youtube link perhaps
@@ -132,7 +134,7 @@ But on the browser it can be clearly seen that the message "Fun Moments" is a hy
 save the file and check the improvement on the brower
 
 
-## Part 8: Let's add some forms... why not.
+## Part 10: Let's add some forms... why not.
 if you ever decided to publicize this and want some feedback from the other users of the internet
 you can do it creating forms in which then can send their name and email.
 1. let's start by doing a new section at the very bottom and providing it an id called "feedback"
