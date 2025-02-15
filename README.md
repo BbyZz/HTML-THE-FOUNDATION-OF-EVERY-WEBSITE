@@ -151,6 +151,10 @@ After that add a div spacer after this section also add this into our navigation
 and With covers some of the basics of HTML.
 I hope you learned something new and you develop your own webpage with your own wittines and creativity.
 
+Look at this cute and clean looking html only pages
+https://jenson.org/
+https://mayborg121.github.io/xs/
+
 Thank you!!!
 
 
