@@ -107,6 +107,32 @@ this will create  a link to our initial "h1" located on top. we just need to add
 3. go back to the first "h1" and inside it type "id" then enter, then in the value type "TOP".
 4. Save the code and see for your self!
 
+
+Currently the webpage is looking good but lets a little style by giving color
+
+## Part 7: Adding Color and title
+
+1. go back to the top where we applied nesting elements
+2. inside the "p" tag, type "style" then we will add "color" and the value is "red"
+3. then after "style", let's add a title by typing "title" then type in a message.
+4. save the file and see the changes
+
+## Part 8: Adding something more fun
+This is for those who are not accurate in their mouse pointers.
+1. go to our "summary" that has the navigation area, inside the "summary" opening tag, type "title" then put a sneaky message such as "Click Me For A Suprise!".
+2. next within our "summary" tag, type in "a" and in the href value insert a link, youtube link perhaps
+3. Transfer the message "Fun Moments" inside of the "a" tag
+4. it sshould look like this
+![image](https://github.com/user-attachments/assets/90a6ae35-4058-42d5-8a05-567160deba8e)
+save the file and check the browser
+
+But on the browser it can be clearly seen that the message "Fun Moments" is a hyperlink, now we can hide this by 
+5. go into the "a" opening tag and type "style", then enter the value "text-decoration-line:none; color: black;"
+![image](https://github.com/user-attachments/assets/1065e5b6-ffec-4fed-a8bc-08e5ed5d4b9f)
+save the file and check the improvement on the brower
+
+
+
    
 
 
