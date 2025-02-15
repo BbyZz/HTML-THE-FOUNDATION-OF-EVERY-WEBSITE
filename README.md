@@ -99,6 +99,18 @@ this will be added before and after our section tag
 ![image](https://github.com/user-attachments/assets/42696b56-5e2d-4761-b2b3-0cdecab09a10)
 4. then save the file and browse the changes in the browser.
 
+## Part 6: Return navigation to our starting page
+
+1. within the section after our "p", type in "nav" then enter, then "ul" then enter, then "li" then enter, and "a".
+2. within the "a" tag, type "Back to Top!", then inside the href value type in "index.html#TOP".
+this will create  a link to our initial "h1" located on top. we just need to add an id into it.
+3. go back to the first "h1" and inside it type "id" then enter, then in the value type "TOP".
+4. Save the code and see for your self!
+
+   
+
+
+
 
 
 
